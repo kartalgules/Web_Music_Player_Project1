@@ -47,12 +47,15 @@ body {
     }
     
     .track-name {
+    color: white;
     font-size: 2.5rem;
+    text-shadow: 4px 2px 8px black;
     }
     
     .track-artist {
     margin-top: 5px;
     font-size: 1.5rem;
+    text-shadow: 2px 1px 4px white;
     }
     
     .buttons {
@@ -73,6 +76,7 @@ body {
     padding: 25px;
     opacity: 0.8;
     transition: opacity .2s;
+    text-shadow: 2px 2px 3px white;
     }
     
     .repeat-track:hover,
@@ -128,6 +132,8 @@ body {
     .current-time,
     .total-duration {
     padding: 10px;
+    text-shadow: 1px 1px 4px white;
+
     }
     
     i.fa-volume-down,
