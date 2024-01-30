@@ -28,12 +28,6 @@ const music_list = [
         music : 'mp3/Eminem From The D2 The LBC ft Snoop-Dogg.mp3'
     },
     {
-        img : 'mp3/Gazapizm.jpg',
-        name : 'Olur Mu',
-        artist : 'Gazapizm ft Melike Sahin',
-        music : 'mp3/Gazapizm Olur Mu ft Melike Sahin.mp3'
-    },
-    {
         img : 'mp3/Masked.jpg',
         name : 'Astronaut In The Ocean',
         artist : 'Masked Wolf',
